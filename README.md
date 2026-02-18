@@ -16,7 +16,6 @@ Documentation standards and guidelines for [Apify](https://apify.com) technical 
 
 Clone this repo and point your AI coding assistant to the rule files. The `.claude/rules/` directory is automatically loaded by [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
-
 ## Contributing
 
 Contributions to these guidelines are welcome! If you have suggestions for improving the documentation standards or want to add new rules, please submit a pull request or open an issue in this repository. Let's work together to maintain high-quality documentation for the Apify platform!
